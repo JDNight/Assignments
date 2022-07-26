@@ -1,8 +1,8 @@
 h1  {
-	font-family:  'SmallCaps' , sans-serif;
-	font-size:  2em;
+	font-family:  Calibri;
+	font-size:  4em;
 	font-weight: bold;
-	test-align: center;
-	margin-top:  10px;
-	margin-bottom:  20px;
+	text-align: center;
+	margin-top:  80px;
+	margin-bottom:  100px;
 }
